@@ -1,0 +1,10 @@
+{
+	"id": "backup-my-sh*t",
+	"name": "Backup my Sh*t",
+	"version": "1.0.0",
+	"minAppVersion": "1.0.0",
+	"description": "A very simple plugin made by me, for me, to automatically Backup my Sh*t, hence the name :)",
+	"author": "nrissot",
+	"authorUrl": "https://nrissot.github.io/",
+	"isDesktopOnly": true
+}
